@@ -1,3 +1,7 @@
+🎬 YouTube Video Downloader App with Format Conversion & Speedtest
+A Tkinter-based desktop application for downloading videos from YouTube, supporting MP3 and MP4 formats. Integrated real-time network speed detection using speedtest to reduce download failures and added OTP-based login for basic access control. Enhanced user experience through hover effects, error handling, and multi-format compatibility.
+
+Tech Stack: Python, yt-dlp, FFmpeg, Tkinter, Speedtest, Pyttsx3 (Text-to-Speech)
 # YouTube Video Downloader with Format Conversion & Speedtest
 
 A Tkinter-based application to download YouTube videos in MP3 and MP4 formats, featuring OTP-based login and real-time internet speed monitoring.
